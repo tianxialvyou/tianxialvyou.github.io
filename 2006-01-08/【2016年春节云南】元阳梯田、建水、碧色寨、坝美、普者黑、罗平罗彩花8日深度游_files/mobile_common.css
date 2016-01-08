@@ -1,0 +1,21 @@
+/*page*/
+*{
+	margin:0;
+	padding:0;
+}
+a{
+    text-decoration:none;
+}
+img{
+    border:none;
+}
+ul li,ul{
+    list-style:none;
+}
+.c:after{
+    clear:both;
+    height:0;
+    display:block;
+    visibility:hidden;
+    content:'.';
+}
